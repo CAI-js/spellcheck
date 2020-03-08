@@ -15,7 +15,7 @@ $ npm install @caijs/spellcheck
 ## Spell Check a word
 
 ```javascript
-const SpellCheck = require('./src');
+const SpellCheck = require('@caijs/spellcheck');
 
 const spellCheck = new SpellCheck({
   features: {
