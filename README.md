@@ -1,5 +1,9 @@
 # @caijs/spellcheck
 
+[![Build Status](https://travis-ci.com/CAI-js/spellcheck.svg?branch=master)](https://travis-ci.com/CAI-js/spellcheck)
+[![NPM version](https://img.shields.io/npm/v/@caijs/spellcheck.svg?style=flat)](https://www.npmjs.com/package/@caijs/spellcheck)
+[![NPM downloads](https://img.shields.io/npm/dm/@caijs/spellcheck.svg?style=flat)](https://www.npmjs.com/package/@caijs/spellcheck)
+
 This library perform an spell check correction based on a dictionary of frequencies.
 
 Important: this library does not includes any dictionary, as is intended to be used as NLP support building the dictionary based on the utterances used to train.
