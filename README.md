@@ -1,6 +1,7 @@
 # @caijs/spellcheck
 
 [![Build Status](https://travis-ci.com/CAI-js/spellcheck.svg?branch=master)](https://travis-ci.com/CAI-js/spellcheck)
+[![Coverage Status](https://coveralls.io/repos/github/CAI-js/spellcheck/badge.svg?branch=master)](https://coveralls.io/github/CAI-js/spellcheck?branch=master)
 [![NPM version](https://img.shields.io/npm/v/@caijs/spellcheck.svg?style=flat)](https://www.npmjs.com/package/@caijs/spellcheck)
 [![NPM downloads](https://img.shields.io/npm/dm/@caijs/spellcheck.svg?style=flat)](https://www.npmjs.com/package/@caijs/spellcheck)
 
