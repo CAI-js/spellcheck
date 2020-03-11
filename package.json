@@ -29,7 +29,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@caijs/leven": "^1.0.1"
+    "@caijs/leven": "^1.0.2"
   },
   "devDependencies": {
     "coveralls": "^3.0.9",
