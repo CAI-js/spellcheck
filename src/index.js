@@ -88,4 +88,8 @@ class SpellCheck {
   }
 }
 
+SpellCheck.info = {
+  name: 'spellcheck',
+}
+
 module.exports = SpellCheck;
